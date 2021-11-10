@@ -5,12 +5,15 @@
 </template>
 
 <script>
+
 export default {
-  name: 'HelloWorld',
+  name: 'titolo',
 }
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="scss">
-
+h1 {
+    color: white;
+}
 </style>
